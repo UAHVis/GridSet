@@ -6,11 +6,11 @@ GridSet is a web-based novel interactive visualization technique for visualizing
 
 ## Demo
 
-A demo instance of GridSet is avialable at [https://santhoshnandha.github.io/GridSet/web/](https://santhoshnandha.github.io/GridSet/web/)
+A demo instance of GridSet is avialable at [https://UAHVis.github.io/GridSet/web/](https://UAHVis.github.io/GridSet/web/)
 
 ## Local Deployment
 
-1. Clone the repository using ```git clone``` or download and extract the [ZIP file](https://github.com/SanthoshNandha/GridSet/archive/master.zip).
+1. Clone the repository using ```git clone``` or download and extract the [ZIP file](https://github.com/UAHVis/GridSet/archive/master.zip).
 1. Launch the [Python SimpleHTTPServer](https://docs.python.org/2/library/simplehttpserver.html) in the project directory.
 	
 	* Python 2
