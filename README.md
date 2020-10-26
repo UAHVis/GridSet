@@ -6,11 +6,11 @@ GridSet is a web-based novel interactive visualization technique for visualizing
 
 ## Demo
 
-A demo instance of GridSet is avialable at [https://UAHVis.github.io/GridSet/web/](https://UAHVis.github.io/GridSet/web/)
+A demo of GridSet is available at  [https://UAHVis.github.io/GridSet/web/](https://UAHVis.github.io/GridSet/web/)
 
 ## View in GitHub
 
-You can view the github project at [https://github.com/UAHVis/GridSet](https://github.com/UAHVis/GridSet)
+You can view the GitHub project at [https://github.com/UAHVis/GridSet](https://github.com/UAHVis/GridSet)
 
 ## Local Deployment
 
@@ -29,14 +29,14 @@ You can view the github project at [https://github.com/UAHVis/GridSet](https://g
 
 1. View GridSet in your browser at [localhost:8000/web](http://localhost:8000/web).
 
-## To Add new Dataset
+## To Add a New Dataset
 
-1. Create a new folder inside \data folder
-1. Add the dataset in the CSV format into the created folder
+1. Create a new folder within the \data folder.
+1. Add the dataset in the CSV format to the created folder
 	* Each row is a Set Element
 	* Each column is an Element Attribute or a Set
 	
-1. Create the metadata file (JSON file) for the CSV inside the same folder
+1. Create the metadata file (JSON file) for the CSV within the same folder
 	#### Example JSON format
 	```
 	{	
