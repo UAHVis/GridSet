@@ -2,11 +2,7 @@
 
 ## About
 
-GridSet is a web-based novel interactive visualization technique for visualizing sets and a large number of their individual elements and associated attributes. Each set representation is composed of glyphs, which represent individual elements and their numerous attributes utilizing different visual encodings.
-
-## Demo
-
-A demo of GridSet is available at  [https://UAHVis.github.io/GridSet/web/](https://UAHVis.github.io/GridSet/web/)
+GridSet is a set visualization for exploring elements, their attributes, intersections, as well as entire sets. In this set visualization, each set representation is composed of glyphs, which represent individual elements and their attributes utilizing different visual encodings. In each set, elements are organized within a grid treemap layout that can provide space-efficient overviews of the elements structured by set intersections across multiple sets. These intersecting elements can be connected among sets through visual links. These visual representations for the individual set, elements, and intersection in GridSet facilitate novel interaction approaches for undertaking analysis tasks by utilizing both macroscopic views of sets, as well as microscopic views of elements and attribute details. In order to perform multiple set operations, GridSet supports a simple and straightforward process for set operations through dragging and dropping set objects. Our use cases involving two large set-typed datasets demonstrate that GridSet facilitates the exploration and identification of meaningful patterns and distributions of elements with respect to attributes and set intersections for solving complex analysis problems in set-typed data.
 
 ## View in GitHub
 
