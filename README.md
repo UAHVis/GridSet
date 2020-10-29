@@ -12,6 +12,12 @@ You can view the GitHub project at [https://github.com/UAHVis/GridSet](https://g
 ## Demo
 
 A demo (Academy Award dataset) of GridSet is available at  [https://UAHVis.github.io/GridSet/web/](https://UAHVis.github.io/GridSet/web/)
+Global Disputes : https://uahvis.github.io/GridSet/web/?dataset=globalDisputes
+Toy Example: https://uahvis.github.io/GridSet/web/?dataset=toyExample
+Countries-Export: https://uahvis.github.io/GridSet/web/?dataset=contriesExport
+Fruits: https://uahvis.github.io/GridSet/web/?dataset=fruits
+Simpsons: https://uahvis.github.io/GridSet/web/?dataset=simpsons
+Social Network: https://uahvis.github.io/GridSet/web/?dataset=socialgraph
 
 
 ## Local Deployment
