@@ -8,6 +8,10 @@ GridSet is a set visualization for exploring elements, their attributes, interse
 
 You can view the GitHub project at [https://github.com/UAHVis/GridSet](https://github.com/UAHVis/GridSet)
 
+## Demo
+
+A demo of GridSet is available at  [https://UAHVis.github.io/GridSet/web/](https://UAHVis.github.io/GridSet/web/)
+
 ## Local Deployment
 
 1. Clone the repository using ```git clone``` or download and extract the [ZIP file](https://github.com/UAHVis/GridSet/archive/master.zip).
