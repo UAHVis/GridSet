@@ -78,7 +78,9 @@ You can view the GitHub project at [https://github.com/UAHVis/GridSet](https://g
 	```
 	{
         	"name" : "AcadameyAwards2017",
-        	"link":"../data/AcadameyAwards2017/awards2017.json"
+        	"link":"../data/AcadameyAwards2017/awards2017.json",
+			"dataname": "academyAwards"
     	}
 	```
-1. Restart the python server and go to [localhost:8000/web](http://localhost:8000/web). The new dataset will be visible in the dropdown box.
+1. Restart the python server and go to [localhost:8000/web/?dataset=academyAwards](http://localhost:8000/web/?dataset=academyAwards). The new dataset will be visible in the dropdown box.
+1. Note: The value of the "dataname" property in the datsets.json is used as the url parameter value.
